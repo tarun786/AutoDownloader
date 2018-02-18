@@ -1,0 +1,1401 @@
+2017-08-03 02:49:06,729 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 02:49:06,960 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 02:49:06,981 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 02:49:07,398 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 02:49:07,603 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered null
+2017-08-03 02:49:09,953 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 02:50:58,357 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 02:50:58,473 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 02:50:58,495 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 02:50:58,731 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 02:50:58,846 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered null
+2017-08-03 02:51:01,125 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 02:52:58,585 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 02:52:58,657 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 02:52:58,679 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 02:54:26,408 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 02:54:26,481 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 02:54:26,738 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 02:54:27,165 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 02:54:27,731 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered null
+2017-08-03 02:54:29,939 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 02:55:56,829 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 02:55:56,907 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 02:55:56,931 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 02:55:57,183 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 02:55:57,308 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 02:56:02,186 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 02:56:02,402 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent 
+2017-08-03 02:56:05,625 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 02:56:12,415 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 03:05:54,617 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 03:05:54,695 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 03:05:54,716 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 03:05:55,105 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 03:05:55,336 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 03:05:59,962 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 03:06:00,023 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent 
+2017-08-03 03:06:03,226 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 03:06:04,870 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 03:06:06,495 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 03:06:08,190 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 03:06:09,823 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 03:06:11,472 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 03:06:11,576 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 03:06:14,957 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 03:08:07,006 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 03:08:07,071 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 03:08:07,119 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 03:08:07,381 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 03:08:07,908 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 03:08:12,588 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 03:08:50,353 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 03:08:50,424 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 03:08:50,448 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 03:08:50,717 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 03:08:51,014 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 03:08:55,615 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 03:08:55,678 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent 
+2017-08-03 03:08:59,050 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 03:09:00,706 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 03:09:02,343 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 03:09:04,051 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 03:09:05,678 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 03:09:07,313 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 03:09:07,420 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 03:09:11,280 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 03:17:08,611 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 03:17:08,915 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 03:17:08,942 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 03:17:09,326 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 03:17:09,699 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 03:17:14,748 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 03:17:14,954 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent 
+2017-08-03 03:17:18,377 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 03:17:20,025 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 03:17:21,657 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 03:17:23,369 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 03:17:24,993 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 03:17:26,640 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 03:17:26,743 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 03:17:30,530 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 03:24:24,005 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 03:24:24,070 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 03:24:24,091 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 03:24:24,487 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 03:24:24,739 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 03:24:30,107 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 03:24:30,179 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent 
+2017-08-03 03:24:33,770 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 03:24:35,408 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 03:24:37,053 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 03:24:38,741 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 03:24:40,375 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 03:24:42,032 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 03:24:42,134 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 03:24:46,291 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 03:26:10,812 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 03:26:10,887 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 03:26:10,909 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 03:26:11,149 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 03:26:11,280 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 03:26:15,953 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 03:26:16,125 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent 
+2017-08-03 03:26:19,534 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 03:26:21,196 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 03:26:22,823 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 03:26:24,522 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 03:26:26,154 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 03:26:27,791 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 03:26:27,894 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 03:26:31,852 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 03:35:16,143 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 03:35:16,203 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 03:35:16,229 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 03:35:37,869 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 03:35:37,950 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 03:35:37,970 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 03:35:38,268 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 03:35:38,625 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 03:35:43,382 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 03:35:43,442 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent 
+2017-08-03 03:35:46,611 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 03:35:48,265 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 03:35:50,018 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 03:35:51,715 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 03:35:53,362 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 03:35:54,993 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 03:35:55,097 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 03:35:58,974 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 03:40:45,088 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 03:40:45,159 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 03:40:45,182 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 03:40:45,434 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 03:40:45,818 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 03:40:51,008 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 03:40:51,072 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent 
+2017-08-03 03:40:54,376 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 03:40:56,015 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 03:40:57,656 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 03:40:59,330 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 03:41:00,974 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 03:41:02,615 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 03:41:02,715 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 03:41:06,577 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 10:19:25,470 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 10:19:25,520 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 10:19:25,529 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 10:19:25,708 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 10:19:25,779 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 10:19:30,231 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 10:19:30,259 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent 
+2017-08-03 10:19:33,527 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 10:19:35,112 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 10:19:36,695 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 10:19:38,308 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 10:19:39,904 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 10:19:41,510 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 10:19:41,579 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 10:19:45,295 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 10:33:44,003 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 10:33:44,061 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 10:33:44,076 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 10:33:44,227 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 10:33:44,296 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 10:33:48,792 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 10:33:48,832 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent 
+2017-08-03 10:33:52,097 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 10:33:53,684 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 10:33:55,267 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 10:33:56,888 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 10:33:58,492 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 10:34:00,097 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 10:34:00,162 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 10:34:03,809 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 10:41:12,239 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 10:41:12,302 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 10:41:12,311 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 10:41:12,467 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 10:41:12,535 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 10:41:17,368 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 10:41:22,637 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 10:41:24,239 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 10:41:25,828 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 10:41:27,469 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 10:41:29,060 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 10:41:30,659 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 10:41:30,721 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 10:41:34,332 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 10:41:36,898 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 11:36:45,208 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 11:36:45,286 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 11:36:45,296 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 11:36:45,457 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 11:36:45,523 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 11:36:50,732 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 11:36:54,148 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 11:36:54,190 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 11:36:55,799 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 11:36:57,394 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 11:36:59,016 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 11:37:00,596 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 11:37:02,169 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 11:37:02,232 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 11:37:05,943 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 11:48:42,772 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 11:48:42,843 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 11:48:42,858 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 11:48:43,029 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 11:48:43,096 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 11:48:48,145 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 11:48:51,686 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 11:48:51,719 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 11:48:53,310 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 11:48:54,895 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 11:48:56,525 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 11:48:58,113 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 11:48:59,701 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 11:48:59,770 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 11:49:03,878 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 11:55:01,368 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 11:55:01,426 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 11:55:01,438 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 11:55:01,600 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 11:55:01,666 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 11:55:06,114 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 11:55:09,660 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 11:55:09,706 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 11:55:11,308 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 11:55:12,903 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 11:55:14,514 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 11:55:16,123 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 11:55:17,729 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 11:55:17,796 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 11:55:21,444 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 12:00:05,300 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:00:05,355 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:00:05,365 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:00:05,514 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 12:00:05,582 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 12:00:10,709 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 12:00:14,315 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 12:00:14,344 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 12:00:15,934 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 12:00:17,515 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 12:00:19,146 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 12:00:20,739 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 12:00:22,317 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 12:00:22,378 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 12:00:26,175 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 12:03:21,626 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:03:21,704 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:03:21,717 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:03:21,876 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 12:03:21,942 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 12:03:26,686 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 12:04:14,744 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:04:14,830 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:04:14,843 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:04:15,010 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 12:04:15,109 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 12:04:19,997 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 12:04:23,526 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 12:04:23,557 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 12:04:25,157 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 12:04:26,736 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 12:04:28,358 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 12:04:29,952 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 12:04:31,524 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 12:04:31,585 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 12:04:35,750 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 12:13:03,469 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:13:03,519 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:13:03,532 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:13:03,695 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 12:13:03,762 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 12:13:10,036 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 12:13:13,642 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 12:13:13,671 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 12:13:15,268 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 12:13:16,868 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 12:13:18,473 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 12:13:20,068 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 12:13:21,661 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 12:13:21,731 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 12:13:26,155 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 12:13:33,997 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 12:13:35,192 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 12:13:40,274 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 12:13:45,611 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 12:13:48,725 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 12:16:28,018 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:16:28,088 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:16:28,103 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:16:28,253 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 12:16:28,321 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 12:16:33,324 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 12:16:36,488 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 12:16:36,519 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 12:16:38,125 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 12:16:39,720 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 12:16:41,335 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 12:16:42,937 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 12:16:44,520 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 12:16:44,585 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 12:16:48,310 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 12:16:56,165 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 12:16:57,323 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 12:17:02,539 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 12:17:07,814 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 12:17:10,917 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 12:27:10,562 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:27:10,622 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:27:10,636 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:27:10,806 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 12:27:10,871 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 12:27:15,799 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 12:27:19,304 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 12:27:19,345 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 12:27:20,956 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 12:27:22,539 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 12:27:24,185 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 12:27:25,767 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 12:27:27,362 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 12:27:27,429 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 12:27:31,050 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 12:27:38,895 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 12:27:40,065 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 12:27:45,251 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 12:27:50,542 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 12:27:53,632 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 12:31:06,194 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:31:06,250 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:31:06,263 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:31:06,423 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 12:31:06,498 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 12:31:11,423 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 12:31:14,552 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 12:31:14,587 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 12:31:16,193 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 12:31:17,788 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 12:31:19,404 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 12:31:20,983 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 12:31:22,569 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 12:31:22,645 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 12:31:26,279 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 12:31:34,197 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 12:31:35,421 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 12:31:40,568 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 12:31:45,878 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 12:31:48,981 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 12:31:56,894 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-03 12:34:39,283 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:34:39,343 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:34:39,354 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:34:39,541 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 12:34:39,607 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 12:34:44,578 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 12:35:21,038 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:35:21,136 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:35:21,149 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:35:21,301 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 12:35:21,370 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 12:35:26,392 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 12:35:30,382 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 12:35:30,410 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 12:35:32,017 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 12:35:33,600 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 12:35:35,266 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 12:35:36,863 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 12:35:38,457 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 12:35:38,524 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 12:35:45,220 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 12:35:53,127 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 12:35:53,551 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 12:35:58,748 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 12:36:04,057 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 12:36:07,191 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 12:36:15,184 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-03 12:37:53,753 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:37:53,827 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:37:53,838 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:38:01,808 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 12:38:06,112 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:38:06,172 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:38:06,185 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:38:06,368 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 12:38:06,435 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 12:38:11,503 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 12:38:14,756 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 12:38:14,792 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 12:38:16,391 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 12:38:17,958 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 12:38:19,599 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 12:38:21,211 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 12:38:22,803 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 12:38:22,870 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 12:38:26,500 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 12:38:34,398 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 12:38:35,551 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 12:38:37,808 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:38:37,877 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:38:37,893 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:38:40,712 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 12:38:45,328 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 12:38:46,013 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 12:38:49,133 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 12:38:49,922 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:38:49,992 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:38:50,014 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:38:50,273 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 12:38:50,377 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 12:38:55,528 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 12:38:57,161 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-03 12:38:58,994 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 12:38:59,034 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 12:39:00,666 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 12:39:02,238 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 12:39:03,843 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 12:39:38,286 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:39:38,342 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:39:38,354 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:39:44,598 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 12:39:48,420 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:39:48,495 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:39:48,505 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:39:48,653 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 12:39:48,714 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 12:43:27,569 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:43:27,624 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:43:27,637 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:43:33,901 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 12:43:37,148 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:43:37,207 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:43:37,219 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:43:41,611 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 12:48:08,945 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:48:09,000 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:48:09,013 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:48:15,730 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 12:48:20,338 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 12:48:20,393 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 12:48:20,401 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 12:48:20,572 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 12:48:20,671 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 12:48:25,684 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 12:48:29,069 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 12:48:29,096 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 12:48:34,207 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 12:48:40,736 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 3
+2017-08-03 12:48:42,439 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 12:48:44,034 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 12:48:45,650 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 12:48:47,254 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 12:48:48,819 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 12:48:48,883 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 12:48:51,827 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 12:48:59,909 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 13:04:38,787 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 13:04:38,848 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 13:04:38,857 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 13:04:39,005 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 13:04:39,074 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 13:04:44,440 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 13:04:49,042 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 13:04:49,069 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 13:04:50,662 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 13:04:52,282 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 13:04:53,899 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 13:04:55,482 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 13:04:57,068 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 13:04:57,131 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 13:05:00,986 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 13:05:09,059 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 13:05:10,247 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 13:05:15,394 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 13:05:20,786 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 13:05:23,913 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 13:05:31,887 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-03 13:05:38,907 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 13:05:43,238 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 13:05:43,299 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 13:05:43,324 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 13:05:48,256 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 13:05:52,247 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 3
+2017-08-03 13:08:28,113 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 13:08:28,171 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 13:08:28,183 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 13:08:28,337 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 13:08:28,404 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 13:08:33,340 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 13:08:36,818 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 13:08:36,849 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 13:08:38,450 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 13:08:40,040 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 13:08:41,661 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 13:08:43,251 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 13:08:44,844 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 13:08:44,909 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 13:08:48,672 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 13:08:56,574 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 13:08:57,016 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 13:09:02,203 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 13:09:07,496 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 13:09:10,585 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 13:09:18,559 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-03 13:09:24,514 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 13:09:29,579 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 13:09:29,625 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 13:09:29,638 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 13:09:34,774 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 13:09:38,719 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 3
+2017-08-03 13:09:40,620 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply btn pressing...
+2017-08-03 14:29:05,846 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 14:29:05,911 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 14:29:05,921 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 14:29:06,068 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 14:29:06,137 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 14:29:11,282 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 14:29:14,746 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 14:29:14,781 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 14:29:16,365 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 14:29:17,949 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 14:29:19,553 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 14:29:21,170 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 14:29:22,761 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 14:29:22,825 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 14:29:26,599 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 14:29:34,562 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 14:29:35,817 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 14:29:41,013 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 14:29:46,321 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 14:29:49,422 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 14:29:57,389 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-03 14:30:04,140 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 14:30:06,861 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 14:30:06,922 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 14:30:06,938 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 14:30:12,216 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 14:34:26,838 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 14:34:26,893 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 14:34:26,909 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 14:34:27,063 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 14:34:27,131 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 14:34:31,979 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 14:34:34,686 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 14:34:35,555 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 14:34:37,151 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 14:34:38,718 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 14:34:40,332 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 14:34:41,926 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 14:34:43,498 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 14:34:43,562 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 14:34:49,473 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 14:34:57,284 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 14:34:58,458 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 14:35:03,629 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 14:35:08,919 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 14:35:12,036 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 14:35:20,013 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-03 14:35:26,898 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 14:35:29,571 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 14:35:29,633 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 14:35:29,646 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 14:35:34,950 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 14:47:29,378 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 14:47:29,432 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 14:47:29,445 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 14:47:29,598 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 14:47:29,667 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 14:47:34,242 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 14:47:37,490 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 14:47:37,524 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 14:47:39,131 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 14:47:40,724 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 14:47:42,343 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 14:47:43,956 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 14:47:45,560 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 14:47:45,630 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 14:47:49,308 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 14:47:57,220 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 14:47:57,665 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 14:48:02,826 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 14:48:08,151 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 14:48:11,258 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 14:48:19,290 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-03 14:48:26,161 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 14:48:29,488 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 14:48:29,538 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 14:48:29,549 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 14:48:34,205 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 14:57:00,361 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 14:57:00,409 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 14:57:00,419 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 14:57:00,594 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 14:57:00,688 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 14:57:11,884 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 14:57:19,923 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 14:57:21,213 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 14:57:22,814 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 14:57:24,407 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 14:57:26,024 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 14:57:27,608 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 14:57:29,214 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 14:57:29,276 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 14:57:38,139 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 14:57:50,141 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 14:57:51,753 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 14:57:57,044 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 14:58:02,402 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 14:58:05,522 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 14:58:13,492 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-03 14:58:21,851 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 14:58:30,384 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 14:58:30,438 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 14:58:30,449 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 14:58:38,598 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 14:58:43,178 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked....
+2017-08-03 15:00:24,109 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked..
+2017-08-03 15:01:54,973 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 15:01:55,033 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 15:01:55,045 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 15:01:55,194 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 15:01:55,263 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 15:02:08,880 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 15:02:16,314 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 15:02:16,345 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 15:02:17,962 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 15:02:19,560 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 15:02:21,196 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 15:02:22,758 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 15:02:24,337 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 15:02:24,399 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 15:02:28,313 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 15:02:47,054 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 15:02:48,615 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 15:02:53,804 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 15:02:59,127 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 15:03:02,256 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 15:03:09,476 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-03 15:03:23,416 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 15:03:35,858 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 15:03:35,908 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 15:03:35,919 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 15:03:50,016 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 15:03:54,908 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked....
+2017-08-03 15:03:57,761 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked..
+2017-08-03 15:03:58,964 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 3
+2017-08-03 15:04:02,026 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave header text has returned Apply Leave
+2017-08-03 15:04:07,309 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply btn pressing...
+2017-08-03 15:04:12,258 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - User has successfully logout from session...
+2017-08-03 15:04:12,258 - com.orangeHRM.testbase.TestBase -INFO - Logout has successfully done from UserAccount!!
+2017-08-03 15:11:16,649 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 15:11:16,708 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 15:11:16,720 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 15:11:16,878 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 15:11:16,963 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 15:11:23,094 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 15:11:27,791 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 15:11:27,819 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 15:11:29,419 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 15:11:31,055 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 15:11:32,688 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 15:11:34,272 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 15:11:35,902 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 15:11:35,965 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 15:11:39,659 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 15:11:47,492 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 15:11:48,701 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 15:11:53,964 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 15:11:59,358 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 15:12:02,489 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 15:12:10,441 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-03 15:12:17,390 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 15:12:20,640 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 15:12:20,711 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 15:12:20,724 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 15:12:25,768 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 15:12:28,782 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked....
+2017-08-03 15:12:31,387 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked..
+2017-08-03 15:12:32,515 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 3
+2017-08-03 15:12:35,585 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave header text has returned Apply Leave
+2017-08-03 15:12:40,871 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply btn pressing...
+2017-08-03 15:12:45,810 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - User has successfully logout from session...
+2017-08-03 15:12:45,811 - com.orangeHRM.testbase.TestBase -INFO - Logout has successfully done from UserAccount!!
+2017-08-03 15:13:45,327 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 15:13:45,383 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 15:13:45,395 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 15:13:45,557 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 15:13:45,646 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 15:13:50,679 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 15:13:54,240 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 15:13:54,273 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 15:13:55,875 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 15:13:57,467 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 15:13:59,153 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 15:14:00,740 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 15:14:02,332 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 15:14:02,397 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 15:14:06,056 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 15:14:13,973 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 15:14:14,396 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 15:14:19,543 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 15:14:24,816 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 15:14:27,937 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 15:14:35,177 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-03 15:14:42,714 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 15:14:48,058 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 15:14:48,106 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 15:14:48,118 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 15:14:52,803 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 15:14:54,430 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked....
+2017-08-03 15:14:57,498 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked..
+2017-08-03 15:14:58,626 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 3
+2017-08-03 15:15:01,698 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave header text has returned Apply Leave
+2017-08-03 15:15:09,080 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply btn pressing...
+2017-08-03 15:15:14,029 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - User has successfully logout from session...
+2017-08-03 15:15:14,030 - com.orangeHRM.testbase.TestBase -INFO - Logout has successfully done from UserAccount!!
+2017-08-03 15:15:22,089 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 15:15:25,673 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 15:15:25,736 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 15:15:25,748 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 15:15:25,911 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 15:15:26,009 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 15:15:30,981 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 15:15:33,111 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave list has clicked..
+2017-08-03 17:42:54,902 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 17:42:54,964 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 17:42:54,977 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 17:42:55,136 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 17:42:55,214 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 17:43:00,098 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 17:43:03,445 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 17:43:03,480 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 17:43:05,070 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 17:43:06,638 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 17:43:08,248 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 17:43:09,840 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 17:43:11,424 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 17:43:11,490 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 17:43:14,412 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 17:43:22,287 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 17:43:22,717 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 17:43:27,914 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 17:43:33,184 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 17:43:36,305 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 17:43:48,388 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 17:43:51,484 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 17:43:51,538 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 17:43:51,548 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 17:43:57,660 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 17:44:01,458 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked....
+2017-08-03 17:44:02,983 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked..
+2017-08-03 17:44:14,524 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 17:44:18,812 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 17:44:18,854 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 17:44:18,868 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 17:44:18,995 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 17:44:19,075 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 17:44:23,489 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 17:44:26,049 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave module btn is clicked..
+2017-08-03 17:44:26,485 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave list has clicked..
+2017-08-03 17:45:20,099 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 17:45:20,173 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 17:45:20,186 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 17:45:20,343 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 17:45:20,413 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 17:45:25,596 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 17:45:29,095 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-03 17:45:29,151 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-03 17:45:30,742 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-03 17:45:32,337 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-03 17:45:33,949 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-03 17:45:35,543 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-03 17:45:37,146 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-03 17:45:37,219 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-03 17:45:40,871 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-03 17:45:48,699 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-03 17:45:49,894 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-03 17:45:55,088 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-03 17:46:00,378 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-03 17:46:03,521 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-03 17:46:11,478 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-03 17:46:18,116 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 17:46:21,548 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 17:46:21,601 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 17:46:21,612 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 17:46:26,735 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 17:46:29,744 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked....
+2017-08-03 17:46:31,681 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked..
+2017-08-03 17:46:32,772 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 3
+2017-08-03 17:46:35,828 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave header text has returned Apply Leave
+2017-08-03 17:46:41,034 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply btn pressing...
+2017-08-03 17:46:45,954 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - User has successfully logout from session...
+2017-08-03 17:46:45,954 - com.orangeHRM.testbase.TestBase -INFO - Logout has successfully done from UserAccount!!
+2017-08-03 17:46:52,509 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-03 17:46:55,869 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 17:46:55,926 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 17:46:55,937 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 17:46:56,062 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 17:46:56,139 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 17:47:01,045 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 17:47:04,574 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave module btn is clicked..
+2017-08-03 17:52:32,599 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 17:52:32,658 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 17:52:32,672 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 17:52:32,822 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 17:52:32,887 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 17:52:37,787 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 17:52:41,306 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave module btn is clicked..
+2017-08-03 17:52:42,972 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave list has clicked..
+2017-08-03 17:56:07,879 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-03 17:56:07,926 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-03 17:56:07,939 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-03 17:56:08,093 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-03 17:56:08,171 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-03 17:56:13,054 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-03 17:56:16,592 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave module btn is clicked..
+2017-08-03 17:56:18,288 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave list has clicked..
+2017-08-03 17:56:23,027 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave Approlaval btn has clicked..
+2017-08-03 17:56:26,982 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin has successfully logout..
+2017-08-03 17:56:30,367 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-03 17:56:33,005 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave btn has clicked.. on user side..
+2017-08-03 17:56:35,056 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Scheduled leave has passed..
+2017-08-04 10:35:32,386 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-04 10:35:32,475 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-04 10:35:32,491 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-04 10:35:32,658 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-04 10:35:32,726 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-04 10:35:37,931 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-04 10:35:41,228 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..
+2017-08-04 10:35:41,259 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-04 10:35:42,848 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..
+2017-08-04 10:35:44,434 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..
+2017-08-04 10:35:46,039 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box..
+2017-08-04 10:35:47,626 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..
+2017-08-04 10:35:49,217 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered..
+2017-08-04 10:35:49,287 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered..
+2017-08-04 10:35:52,915 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved..
+2017-08-04 10:36:00,725 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse..
+2017-08-04 10:36:01,903 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked 
+2017-08-04 10:36:07,103 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-04 10:36:12,401 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered..
+2017-08-04 10:36:15,516 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...
+2017-08-04 10:36:23,472 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done..
+2017-08-04 10:36:30,117 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-04 10:36:32,777 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-04 10:36:32,839 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-04 10:36:32,853 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-04 10:36:37,534 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login..
+2017-08-04 10:36:40,499 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked....
+2017-08-04 10:36:42,436 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked..
+2017-08-04 10:36:43,884 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 
+2017-08-04 10:36:46,940 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave header text has returned Apply Leave
+2017-08-04 10:36:52,184 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply btn pressing...
+2017-08-04 10:36:57,094 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - User has successfully logout from session...
+2017-08-04 10:36:57,094 - com.orangeHRM.testbase.TestBase -INFO - Logout has successfully done from UserAccount!!
+2017-08-04 10:37:03,816 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-04 10:37:06,125 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-04 10:37:06,176 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-04 10:37:06,190 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-04 10:37:06,320 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-04 10:37:06,403 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-04 10:37:10,973 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-04 10:37:14,807 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave module btn is clicked..
+2017-08-04 10:37:16,517 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave list has clicked..
+2017-08-04 12:39:35,671 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-04 12:39:35,727 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-04 12:39:35,743 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-04 12:39:35,890 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-04 12:39:35,958 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-04 12:39:40,899 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-04 12:39:45,294 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..[[FirefoxDriver: firefox on WINDOWS (73c839b6-5095-44e7-b4bd-38f00a4dea48)] -> id: menu_pim_addEmployee]
+2017-08-04 12:39:45,319 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-04 12:39:46,925 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..[[FirefoxDriver: firefox on WINDOWS (73c839b6-5095-44e7-b4bd-38f00a4dea48)] -> id: firstName]
+2017-08-04 12:39:48,519 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..[[FirefoxDriver: firefox on WINDOWS (73c839b6-5095-44e7-b4bd-38f00a4dea48)] -> id: lastName]
+2017-08-04 12:39:50,148 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box.. [[FirefoxDriver: firefox on WINDOWS (73c839b6-5095-44e7-b4bd-38f00a4dea48)] -> id: chkLogin]
+2017-08-04 12:39:51,736 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..jokumar
+2017-08-04 12:39:53,344 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered.. [[FirefoxDriver: firefox on WINDOWS (73c839b6-5095-44e7-b4bd-38f00a4dea48)] -> id: user_password]
+2017-08-04 12:39:53,417 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered.. [[FirefoxDriver: firefox on WINDOWS (73c839b6-5095-44e7-b4bd-38f00a4dea48)] -> id: re_password]
+2017-08-04 12:39:57,245 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved.. [[FirefoxDriver: firefox on WINDOWS (73c839b6-5095-44e7-b4bd-38f00a4dea48)] -> id: btnSave]
+2017-08-04 12:40:05,051 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse.. [[FirefoxDriver: firefox on WINDOWS (73c839b6-5095-44e7-b4bd-38f00a4dea48)] -> id: menu_leave_Entitlements]
+2017-08-04 12:40:05,986 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked By.id: menu_leave_addLeaveEntitlement
+2017-08-04 12:40:11,177 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-04 12:40:16,485 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered.. [[FirefoxDriver: firefox on WINDOWS (73c839b6-5095-44e7-b4bd-38f00a4dea48)] -> id: entitlements_entitlement]
+2017-08-04 12:40:19,625 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...[[FirefoxDriver: firefox on WINDOWS (73c839b6-5095-44e7-b4bd-38f00a4dea48)] -> id: btnSave]
+2017-08-04 12:41:05,530 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-04 12:42:37,610 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-04 12:42:37,667 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-04 12:42:37,682 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-04 12:42:37,840 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-04 12:42:37,921 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-04 12:42:43,882 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-04 12:42:47,731 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..[[FirefoxDriver: firefox on WINDOWS (7f7e9515-c823-47e5-9c9f-144246e533b7)] -> id: menu_pim_addEmployee]
+2017-08-04 12:42:47,756 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-04 12:42:49,370 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..[[FirefoxDriver: firefox on WINDOWS (7f7e9515-c823-47e5-9c9f-144246e533b7)] -> id: firstName]
+2017-08-04 12:42:50,964 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..[[FirefoxDriver: firefox on WINDOWS (7f7e9515-c823-47e5-9c9f-144246e533b7)] -> id: lastName]
+2017-08-04 12:42:52,583 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box.. [[FirefoxDriver: firefox on WINDOWS (7f7e9515-c823-47e5-9c9f-144246e533b7)] -> id: chkLogin]
+2017-08-04 12:42:54,160 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..jokumar
+2017-08-04 12:42:55,792 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered.. [[FirefoxDriver: firefox on WINDOWS (7f7e9515-c823-47e5-9c9f-144246e533b7)] -> id: user_password]
+2017-08-04 12:42:55,865 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered.. [[FirefoxDriver: firefox on WINDOWS (7f7e9515-c823-47e5-9c9f-144246e533b7)] -> id: re_password]
+2017-08-04 12:42:59,580 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved.. [[FirefoxDriver: firefox on WINDOWS (7f7e9515-c823-47e5-9c9f-144246e533b7)] -> id: btnSave]
+2017-08-04 12:43:07,746 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse.. [[FirefoxDriver: firefox on WINDOWS (7f7e9515-c823-47e5-9c9f-144246e533b7)] -> id: menu_leave_Entitlements]
+2017-08-04 12:43:08,601 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked By.id: menu_leave_addLeaveEntitlement
+2017-08-04 12:43:13,818 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-04 12:43:19,154 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered.. [[FirefoxDriver: firefox on WINDOWS (7f7e9515-c823-47e5-9c9f-144246e533b7)] -> id: entitlements_entitlement]
+2017-08-04 12:43:22,257 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...[[FirefoxDriver: firefox on WINDOWS (7f7e9515-c823-47e5-9c9f-144246e533b7)] -> id: btnSave]
+2017-08-04 12:44:00,307 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done.. Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Logout']'
+2017-08-04 12:44:06,398 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-04 12:44:10,752 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-04 12:44:10,806 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-04 12:44:10,818 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-04 12:44:46,508 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login.. Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2017-08-04 12:44:50,045 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked.... [[FirefoxDriver: firefox on WINDOWS (768ec796-6c6e-43c4-9a4f-91cbcb71207d)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-04 12:44:52,037 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (768ec796-6c6e-43c4-9a4f-91cbcb71207d)] -> xpath: .//*[@id='menu_leave_applyLeave']]
+2017-08-04 12:44:53,406 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 
+2017-08-04 12:44:56,460 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave header text has returned Apply Leave
+2017-08-04 12:45:01,944 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply btn pressing... [[FirefoxDriver: firefox on WINDOWS (768ec796-6c6e-43c4-9a4f-91cbcb71207d)] -> id: applyBtn]
+2017-08-04 12:45:37,069 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - User has successfully logout from session... Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Logout']'
+2017-08-04 12:45:37,070 - com.orangeHRM.testbase.TestBase -INFO - Logout has successfully done from UserAccount!!
+2017-08-04 12:45:43,330 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-04 12:45:47,557 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-04 12:45:47,602 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-04 12:45:47,616 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-04 12:45:47,744 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-04 12:45:47,823 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-04 12:45:52,559 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-04 12:45:56,057 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave module btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (b3fc45e6-4c7a-4800-9603-6bd19765ffa3)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-04 12:45:57,704 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave list has clicked.. [[FirefoxDriver: firefox on WINDOWS (b3fc45e6-4c7a-4800-9603-6bd19765ffa3)] -> xpath: .//*[@id='menu_leave_viewLeaveList']]
+2017-08-04 12:47:03,036 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login.. Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2017-08-04 12:47:35,956 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave btn has clicked.. on user side.. Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='My Leave']'
+2017-08-26 00:59:32,568 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 00:59:32,951 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 00:59:32,985 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 00:59:34,267 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 00:59:34,587 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 01:00:26,532 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 01:00:47,318 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..[[FirefoxDriver: firefox on WINDOWS (f4961038-5522-419d-9478-4fce8761115c)] -> id: menu_pim_addEmployee]
+2017-08-26 01:00:47,536 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-26 01:00:49,621 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..[[FirefoxDriver: firefox on WINDOWS (f4961038-5522-419d-9478-4fce8761115c)] -> id: firstName]
+2017-08-26 01:00:51,401 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..[[FirefoxDriver: firefox on WINDOWS (f4961038-5522-419d-9478-4fce8761115c)] -> id: lastName]
+2017-08-26 01:00:53,244 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box.. [[FirefoxDriver: firefox on WINDOWS (f4961038-5522-419d-9478-4fce8761115c)] -> id: chkLogin]
+2017-08-26 01:00:54,928 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..jokumar
+2017-08-26 01:00:56,583 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered.. [[FirefoxDriver: firefox on WINDOWS (f4961038-5522-419d-9478-4fce8761115c)] -> id: user_password]
+2017-08-26 01:00:56,708 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered.. [[FirefoxDriver: firefox on WINDOWS (f4961038-5522-419d-9478-4fce8761115c)] -> id: re_password]
+2017-08-26 01:01:05,826 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved.. [[FirefoxDriver: firefox on WINDOWS (f4961038-5522-419d-9478-4fce8761115c)] -> id: btnSave]
+2017-08-26 01:01:17,696 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse.. [[FirefoxDriver: firefox on WINDOWS (f4961038-5522-419d-9478-4fce8761115c)] -> id: menu_leave_Entitlements]
+2017-08-26 01:01:17,963 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked By.id: menu_leave_addLeaveEntitlement
+2017-08-26 01:02:05,337 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 01:02:35,295 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 01:02:35,360 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 01:02:35,391 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 01:03:11,615 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login.. Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2017-08-26 01:03:21,580 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked.... [[FirefoxDriver: firefox on WINDOWS (aebc5359-9d34-494c-bd0a-76349235985f)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 01:03:31,545 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (aebc5359-9d34-494c-bd0a-76349235985f)] -> xpath: .//*[@id='menu_leave_applyLeave']]
+2017-08-26 01:04:10,938 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 01:04:29,329 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 01:04:29,394 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 01:04:29,425 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 01:04:29,744 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 01:04:30,043 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 01:04:35,088 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 01:04:40,994 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave module btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (6e7d3525-aac3-4e85-95ae-759fe381352d)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 01:04:45,328 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave list has clicked.. [[FirefoxDriver: firefox on WINDOWS (6e7d3525-aac3-4e85-95ae-759fe381352d)] -> xpath: .//*[@id='menu_leave_viewLeaveList']]
+2017-08-26 01:05:16,955 - com.orangeHRM.testbase.TestBase -INFO - Exception generated Unable to locate element: {"method":"xpath","selector":"//select[starts-with(@id, 'select_leave')]"}
+Command duration or timeout: 30.12 seconds
+2017-08-26 11:07:05,700 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 11:07:05,992 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 11:07:06,073 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 11:07:06,740 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 11:07:07,395 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 11:07:14,173 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 11:07:19,634 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..[[FirefoxDriver: firefox on WINDOWS (0198662b-9e67-4e7d-8935-aa32ceb7e6d4)] -> id: menu_pim_addEmployee]
+2017-08-26 11:07:20,145 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-26 11:07:22,135 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..[[FirefoxDriver: firefox on WINDOWS (0198662b-9e67-4e7d-8935-aa32ceb7e6d4)] -> id: firstName]
+2017-08-26 11:07:23,969 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..[[FirefoxDriver: firefox on WINDOWS (0198662b-9e67-4e7d-8935-aa32ceb7e6d4)] -> id: lastName]
+2017-08-26 11:07:26,061 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box.. [[FirefoxDriver: firefox on WINDOWS (0198662b-9e67-4e7d-8935-aa32ceb7e6d4)] -> id: chkLogin]
+2017-08-26 11:07:27,802 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..jokumar
+2017-08-26 11:07:29,687 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered.. [[FirefoxDriver: firefox on WINDOWS (0198662b-9e67-4e7d-8935-aa32ceb7e6d4)] -> id: user_password]
+2017-08-26 11:07:29,890 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered.. [[FirefoxDriver: firefox on WINDOWS (0198662b-9e67-4e7d-8935-aa32ceb7e6d4)] -> id: re_password]
+2017-08-26 11:07:35,854 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved.. [[FirefoxDriver: firefox on WINDOWS (0198662b-9e67-4e7d-8935-aa32ceb7e6d4)] -> id: btnSave]
+2017-08-26 11:07:44,635 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse.. [[FirefoxDriver: firefox on WINDOWS (0198662b-9e67-4e7d-8935-aa32ceb7e6d4)] -> id: menu_leave_Entitlements]
+2017-08-26 11:07:44,857 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked By.id: menu_leave_addLeaveEntitlement
+2017-08-26 11:07:50,321 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-26 11:07:56,564 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered.. [[FirefoxDriver: firefox on WINDOWS (0198662b-9e67-4e7d-8935-aa32ceb7e6d4)] -> id: entitlements_entitlement]
+2017-08-26 11:07:59,906 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...[[FirefoxDriver: firefox on WINDOWS (0198662b-9e67-4e7d-8935-aa32ceb7e6d4)] -> id: btnSave]
+2017-08-26 11:08:40,175 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done.. Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Logout']'
+2017-08-26 11:08:51,816 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 11:09:00,915 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 11:09:01,271 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 11:09:01,324 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 11:09:38,518 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login.. Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2017-08-26 11:09:43,463 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked.... [[FirefoxDriver: firefox on WINDOWS (ab905921-d4b0-48f7-9935-e1e56f45e6b4)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 11:09:46,467 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (ab905921-d4b0-48f7-9935-e1e56f45e6b4)] -> xpath: .//*[@id='menu_leave_applyLeave']]
+2017-08-26 11:09:50,580 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 
+2017-08-26 11:09:53,734 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave header text has returned Apply Leave
+2017-08-26 11:10:00,924 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply btn pressing... [[FirefoxDriver: firefox on WINDOWS (ab905921-d4b0-48f7-9935-e1e56f45e6b4)] -> id: applyBtn]
+2017-08-26 11:10:37,260 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - User has successfully logout from session... Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Logout']'
+2017-08-26 11:10:37,262 - com.orangeHRM.testbase.TestBase -INFO - Logout has successfully done from UserAccount!!
+2017-08-26 11:10:47,271 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 11:10:55,613 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 11:10:55,942 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 11:10:55,994 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 11:10:56,313 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 11:10:56,743 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 11:11:03,076 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 11:11:08,644 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave module btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (0f2a03cf-a631-44f7-8c94-da2d03d134ab)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 11:11:11,102 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave list has clicked.. [[FirefoxDriver: firefox on WINDOWS (0f2a03cf-a631-44f7-8c94-da2d03d134ab)] -> xpath: .//*[@id='menu_leave_viewLeaveList']]
+2017-08-26 11:11:17,609 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave Approlaval btn has clicked.. [[FirefoxDriver: firefox on WINDOWS (0f2a03cf-a631-44f7-8c94-da2d03d134ab)] -> id: btnSave]
+2017-08-26 11:11:52,884 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin has successfully logout.. Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Logout']'
+2017-08-26 11:12:28,698 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login.. Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2017-08-26 11:13:02,571 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave btn has clicked.. on user side.. Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='My Leave']'
+2017-08-26 14:59:23,281 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 14:59:23,646 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 14:59:23,755 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 14:59:24,746 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 14:59:25,358 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 14:59:31,587 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 14:59:37,519 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..[[FirefoxDriver: firefox on WINDOWS (5ba0d212-8bbb-46a1-8670-c04965c040c8)] -> id: menu_pim_addEmployee]
+2017-08-26 14:59:37,683 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-26 14:59:39,443 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..[[FirefoxDriver: firefox on WINDOWS (5ba0d212-8bbb-46a1-8670-c04965c040c8)] -> id: firstName]
+2017-08-26 14:59:41,281 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..[[FirefoxDriver: firefox on WINDOWS (5ba0d212-8bbb-46a1-8670-c04965c040c8)] -> id: lastName]
+2017-08-26 14:59:43,251 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box.. [[FirefoxDriver: firefox on WINDOWS (5ba0d212-8bbb-46a1-8670-c04965c040c8)] -> id: chkLogin]
+2017-08-26 14:59:44,912 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..jokumar
+2017-08-26 14:59:46,697 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered.. [[FirefoxDriver: firefox on WINDOWS (5ba0d212-8bbb-46a1-8670-c04965c040c8)] -> id: user_password]
+2017-08-26 14:59:46,902 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered.. [[FirefoxDriver: firefox on WINDOWS (5ba0d212-8bbb-46a1-8670-c04965c040c8)] -> id: re_password]
+2017-08-26 14:59:52,391 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved.. [[FirefoxDriver: firefox on WINDOWS (5ba0d212-8bbb-46a1-8670-c04965c040c8)] -> id: btnSave]
+2017-08-26 15:00:00,780 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse.. [[FirefoxDriver: firefox on WINDOWS (5ba0d212-8bbb-46a1-8670-c04965c040c8)] -> id: menu_leave_Entitlements]
+2017-08-26 15:00:01,154 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked By.id: menu_leave_addLeaveEntitlement
+2017-08-26 15:00:06,686 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-26 15:00:12,769 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered.. [[FirefoxDriver: firefox on WINDOWS (5ba0d212-8bbb-46a1-8670-c04965c040c8)] -> id: entitlements_entitlement]
+2017-08-26 15:00:16,059 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...[[FirefoxDriver: firefox on WINDOWS (5ba0d212-8bbb-46a1-8670-c04965c040c8)] -> id: btnSave]
+2017-08-26 15:00:56,299 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - logout has been successfully done.. Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Logout']'
+2017-08-26 15:01:07,666 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 15:01:14,980 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 15:01:15,359 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 15:01:15,404 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 15:01:52,228 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login.. Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2017-08-26 15:01:56,425 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked.... [[FirefoxDriver: firefox on WINDOWS (9e91cdad-7a2d-438f-afa6-bb9ca6a52b70)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 15:01:58,751 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (9e91cdad-7a2d-438f-afa6-bb9ca6a52b70)] -> xpath: .//*[@id='menu_leave_applyLeave']]
+2017-08-26 15:02:01,196 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 
+2017-08-26 15:02:04,314 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave header text has returned Apply Leave
+2017-08-26 15:02:12,117 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply btn pressing... [[FirefoxDriver: firefox on WINDOWS (9e91cdad-7a2d-438f-afa6-bb9ca6a52b70)] -> id: applyBtn]
+2017-08-26 15:02:49,285 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - User has successfully logout from session... Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Logout']'
+2017-08-26 15:02:49,285 - com.orangeHRM.testbase.TestBase -INFO - Logout has successfully done from UserAccount!!
+2017-08-26 15:03:01,144 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 15:03:08,568 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 15:03:08,632 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 15:03:08,658 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 15:03:08,875 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 15:03:09,353 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 15:03:15,609 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 15:03:22,069 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave module btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (f9c64a56-5187-42c8-9e54-7cb8797e68a6)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 15:03:24,513 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave list has clicked.. [[FirefoxDriver: firefox on WINDOWS (f9c64a56-5187-42c8-9e54-7cb8797e68a6)] -> xpath: .//*[@id='menu_leave_viewLeaveList']]
+2017-08-26 15:03:30,672 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave Approlaval btn has clicked.. [[FirefoxDriver: firefox on WINDOWS (f9c64a56-5187-42c8-9e54-7cb8797e68a6)] -> id: btnSave]
+2017-08-26 15:04:05,739 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin has successfully logout.. Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Logout']'
+2017-08-26 15:04:42,172 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login.. Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2017-08-26 15:05:16,908 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave btn has clicked.. on user side.. Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='My Leave']'
+2017-08-26 15:13:56,637 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 15:13:56,729 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 15:13:56,769 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 15:13:57,331 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 15:13:57,967 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 15:14:03,726 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 15:14:08,892 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..[[FirefoxDriver: firefox on WINDOWS (495f2e0a-6483-4cb5-8456-0d585ba28785)] -> id: menu_pim_addEmployee]
+2017-08-26 15:14:08,986 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-26 15:14:10,722 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..[[FirefoxDriver: firefox on WINDOWS (495f2e0a-6483-4cb5-8456-0d585ba28785)] -> id: firstName]
+2017-08-26 15:14:12,495 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..[[FirefoxDriver: firefox on WINDOWS (495f2e0a-6483-4cb5-8456-0d585ba28785)] -> id: lastName]
+2017-08-26 15:14:14,460 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box.. [[FirefoxDriver: firefox on WINDOWS (495f2e0a-6483-4cb5-8456-0d585ba28785)] -> id: chkLogin]
+2017-08-26 15:14:16,188 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..jokumar
+2017-08-26 15:14:18,004 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered.. [[FirefoxDriver: firefox on WINDOWS (495f2e0a-6483-4cb5-8456-0d585ba28785)] -> id: user_password]
+2017-08-26 15:14:18,133 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered.. [[FirefoxDriver: firefox on WINDOWS (495f2e0a-6483-4cb5-8456-0d585ba28785)] -> id: re_password]
+2017-08-26 15:14:21,868 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved.. [[FirefoxDriver: firefox on WINDOWS (495f2e0a-6483-4cb5-8456-0d585ba28785)] -> id: btnSave]
+2017-08-26 15:14:31,613 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse.. [[FirefoxDriver: firefox on WINDOWS (495f2e0a-6483-4cb5-8456-0d585ba28785)] -> id: menu_leave_Entitlements]
+2017-08-26 15:14:31,955 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked By.id: menu_leave_addLeaveEntitlement
+2017-08-26 15:14:37,300 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-26 15:14:43,282 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered.. [[FirefoxDriver: firefox on WINDOWS (495f2e0a-6483-4cb5-8456-0d585ba28785)] -> id: entitlements_entitlement]
+2017-08-26 15:14:46,561 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...[[FirefoxDriver: firefox on WINDOWS (495f2e0a-6483-4cb5-8456-0d585ba28785)] -> id: btnSave]
+2017-08-26 15:15:01,951 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 15:15:09,780 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 15:15:09,894 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 15:15:09,920 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 15:15:46,676 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login.. Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2017-08-26 15:15:50,654 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked.... [[FirefoxDriver: firefox on WINDOWS (78627961-5f7d-4240-b95e-8eda720e9aa0)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 15:15:53,029 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (78627961-5f7d-4240-b95e-8eda720e9aa0)] -> xpath: .//*[@id='menu_leave_applyLeave']]
+2017-08-26 15:15:54,715 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 
+2017-08-26 15:15:57,826 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave header text has returned Apply Leave
+2017-08-26 15:16:04,243 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply btn pressing... [[FirefoxDriver: firefox on WINDOWS (78627961-5f7d-4240-b95e-8eda720e9aa0)] -> id: applyBtn]
+2017-08-26 15:16:40,396 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - User has successfully logout from session... Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Logout']'
+2017-08-26 15:16:40,397 - com.orangeHRM.testbase.TestBase -INFO - Logout has successfully done from UserAccount!!
+2017-08-26 15:16:51,700 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 15:16:57,213 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 15:16:57,295 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 15:16:57,317 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 15:16:57,736 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 15:16:58,021 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 15:17:04,069 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 15:17:08,302 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave module btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (c65e7ec8-b123-4b56-bcc4-f5de3de7f481)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 15:17:10,475 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave list has clicked.. [[FirefoxDriver: firefox on WINDOWS (c65e7ec8-b123-4b56-bcc4-f5de3de7f481)] -> xpath: .//*[@id='menu_leave_viewLeaveList']]
+2017-08-26 15:17:42,038 - com.orangeHRM.testbase.TestBase -INFO - Exception generated Unable to locate element: {"method":"xpath","selector":"//select[starts-with(@id, 'select_leave')]"}
+Command duration or timeout: 30.06 seconds
+2017-08-26 15:36:48,233 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 15:36:48,302 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 15:36:48,331 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 15:36:48,712 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 15:36:49,065 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 15:36:54,179 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 15:36:58,164 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..[[FirefoxDriver: firefox on WINDOWS (94d12dd3-4ade-42cc-bff1-1ed5885ac184)] -> id: menu_pim_addEmployee]
+2017-08-26 15:36:58,218 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-26 15:36:59,903 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..[[FirefoxDriver: firefox on WINDOWS (94d12dd3-4ade-42cc-bff1-1ed5885ac184)] -> id: firstName]
+2017-08-26 15:37:01,567 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..[[FirefoxDriver: firefox on WINDOWS (94d12dd3-4ade-42cc-bff1-1ed5885ac184)] -> id: lastName]
+2017-08-26 15:37:03,299 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box.. [[FirefoxDriver: firefox on WINDOWS (94d12dd3-4ade-42cc-bff1-1ed5885ac184)] -> id: chkLogin]
+2017-08-26 15:37:04,929 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..jokumar
+2017-08-26 15:37:06,606 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered.. [[FirefoxDriver: firefox on WINDOWS (94d12dd3-4ade-42cc-bff1-1ed5885ac184)] -> id: user_password]
+2017-08-26 15:37:06,740 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered.. [[FirefoxDriver: firefox on WINDOWS (94d12dd3-4ade-42cc-bff1-1ed5885ac184)] -> id: re_password]
+2017-08-26 15:37:10,361 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved.. [[FirefoxDriver: firefox on WINDOWS (94d12dd3-4ade-42cc-bff1-1ed5885ac184)] -> id: btnSave]
+2017-08-26 15:37:18,568 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse.. [[FirefoxDriver: firefox on WINDOWS (94d12dd3-4ade-42cc-bff1-1ed5885ac184)] -> id: menu_leave_Entitlements]
+2017-08-26 15:37:18,769 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked By.id: menu_leave_addLeaveEntitlement
+2017-08-26 15:37:24,072 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-26 15:37:29,689 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered.. [[FirefoxDriver: firefox on WINDOWS (94d12dd3-4ade-42cc-bff1-1ed5885ac184)] -> id: entitlements_entitlement]
+2017-08-26 15:37:32,963 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...[[FirefoxDriver: firefox on WINDOWS (94d12dd3-4ade-42cc-bff1-1ed5885ac184)] -> id: btnSave]
+2017-08-26 15:37:47,675 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 15:37:52,345 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 15:37:52,406 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 15:37:52,430 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 15:38:28,501 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login.. Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2017-08-26 15:38:32,758 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked.... [[FirefoxDriver: firefox on WINDOWS (b0511d76-ca6b-4fef-a7ca-57a5e121976a)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 15:38:35,153 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (b0511d76-ca6b-4fef-a7ca-57a5e121976a)] -> xpath: .//*[@id='menu_leave_applyLeave']]
+2017-08-26 15:38:37,000 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 
+2017-08-26 15:38:40,077 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave header text has returned Apply Leave
+2017-08-26 15:38:46,686 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply btn pressing... [[FirefoxDriver: firefox on WINDOWS (b0511d76-ca6b-4fef-a7ca-57a5e121976a)] -> id: applyBtn]
+2017-08-26 15:39:23,431 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - User has successfully logout from session... Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Logout']'
+2017-08-26 15:39:23,432 - com.orangeHRM.testbase.TestBase -INFO - Logout has successfully done from UserAccount!!
+2017-08-26 15:39:32,996 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 15:39:39,774 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 15:39:40,032 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 15:39:40,057 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 15:39:40,276 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 15:39:40,643 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 15:39:46,575 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 15:39:51,468 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave module btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (d7b2c040-8572-4d91-a6a4-916a778102d5)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 15:39:53,642 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave list has clicked.. [[FirefoxDriver: firefox on WINDOWS (d7b2c040-8572-4d91-a6a4-916a778102d5)] -> xpath: .//*[@id='menu_leave_viewLeaveList']]
+2017-08-26 15:40:25,211 - com.orangeHRM.testbase.TestBase -INFO - Exception generated Unable to locate element: {"method":"xpath","selector":"//select[starts-with(@id, 'select_leave')]"}
+Command duration or timeout: 30.07 seconds
+2017-08-26 15:53:47,932 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 15:53:48,145 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 15:53:48,312 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 15:53:48,673 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 15:53:49,042 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 15:53:54,923 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 15:54:00,346 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add employee option is clicked..[[FirefoxDriver: firefox on WINDOWS (f384b88a-9bac-4f87-b538-33b92403571c)] -> id: menu_pim_addEmployee]
+2017-08-26 15:54:00,467 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - addEmployee assert has sent Add Employee
+2017-08-26 15:54:02,175 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - first name is entered..[[FirefoxDriver: firefox on WINDOWS (f384b88a-9bac-4f87-b538-33b92403571c)] -> id: firstName]
+2017-08-26 15:54:03,951 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - last name is entered..[[FirefoxDriver: firefox on WINDOWS (f384b88a-9bac-4f87-b538-33b92403571c)] -> id: lastName]
+2017-08-26 15:54:05,882 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - check login box.. [[FirefoxDriver: firefox on WINDOWS (f384b88a-9bac-4f87-b538-33b92403571c)] -> id: chkLogin]
+2017-08-26 15:54:07,821 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accUserName is entered..jokumar
+2017-08-26 15:54:09,813 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - accPassword is entered.. [[FirefoxDriver: firefox on WINDOWS (f384b88a-9bac-4f87-b538-33b92403571c)] -> id: user_password]
+2017-08-26 15:54:10,009 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - acc confirm password is entered.. [[FirefoxDriver: firefox on WINDOWS (f384b88a-9bac-4f87-b538-33b92403571c)] -> id: re_password]
+2017-08-26 15:54:14,121 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Add Employee login details has benn saved.. [[FirefoxDriver: firefox on WINDOWS (f384b88a-9bac-4f87-b538-33b92403571c)] -> id: btnSave]
+2017-08-26 15:54:22,825 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Hover option has come of by mouse.. [[FirefoxDriver: firefox on WINDOWS (f384b88a-9bac-4f87-b538-33b92403571c)] -> id: menu_leave_Entitlements]
+2017-08-26 15:54:23,026 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - add leave entitlement option is clicked By.id: menu_leave_addLeaveEntitlement
+2017-08-26 15:54:28,508 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - EmpName has entered..
+2017-08-26 15:54:35,015 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Entitlement value has entered.. [[FirefoxDriver: firefox on WINDOWS (f384b88a-9bac-4f87-b538-33b92403571c)] -> id: entitlements_entitlement]
+2017-08-26 15:54:38,300 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Save btn is clicked...[[FirefoxDriver: firefox on WINDOWS (f384b88a-9bac-4f87-b538-33b92403571c)] -> id: btnSave]
+2017-08-26 15:54:54,700 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 15:55:06,589 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 15:55:06,677 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 15:55:06,876 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 15:55:44,397 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login.. Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2017-08-26 15:55:49,777 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked.... [[FirefoxDriver: firefox on WINDOWS (a56d3076-4cfb-4f07-80f5-d126cfd215ff)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 15:55:52,158 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (a56d3076-4cfb-4f07-80f5-d126cfd215ff)] -> xpath: .//*[@id='menu_leave_applyLeave']]
+2017-08-26 15:55:54,163 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 
+2017-08-26 15:55:57,343 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave header text has returned Apply Leave
+2017-08-26 15:56:04,714 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply btn pressing... [[FirefoxDriver: firefox on WINDOWS (a56d3076-4cfb-4f07-80f5-d126cfd215ff)] -> id: applyBtn]
+2017-08-26 15:56:42,668 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - User has successfully logout from session... Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Logout']'
+2017-08-26 15:56:42,669 - com.orangeHRM.testbase.TestBase -INFO - Logout has successfully done from UserAccount!!
+2017-08-26 15:56:53,609 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 15:57:02,199 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 15:57:02,277 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 15:57:02,308 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 15:57:02,750 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 15:57:03,012 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 15:57:09,560 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 15:57:14,105 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave module btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (26bb3e22-247a-46b2-a479-dd2398078458)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 15:57:16,616 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave list has clicked.. [[FirefoxDriver: firefox on WINDOWS (26bb3e22-247a-46b2-a479-dd2398078458)] -> xpath: .//*[@id='menu_leave_viewLeaveList']]
+2017-08-26 15:57:48,273 - com.orangeHRM.testbase.TestBase -INFO - Exception generated Unable to locate element: {"method":"xpath","selector":"//select[starts-with(@id, 'select_leave')]"}
+Command duration or timeout: 30.15 seconds
+2017-08-26 16:11:20,483 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 16:11:20,552 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 16:11:20,578 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 16:11:21,019 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 16:11:21,338 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 16:11:27,043 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 16:12:43,143 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 16:12:47,462 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 16:12:47,580 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 16:12:47,652 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 16:13:25,236 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - user is successfully login.. Proxy element for: DefaultElementLocator 'By.id: btnLogin'
+2017-08-26 16:13:30,282 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - leave module btn is clicked.... [[FirefoxDriver: firefox on WINDOWS (dab59e43-47e6-4d99-9838-d6d0081c0984)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 16:13:32,991 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (dab59e43-47e6-4d99-9838-d6d0081c0984)] -> xpath: .//*[@id='menu_leave_applyLeave']]
+2017-08-26 16:13:34,650 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - String date is selected.. 
+2017-08-26 16:13:37,804 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply leave header text has returned Apply Leave
+2017-08-26 16:13:44,808 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - Apply btn pressing... [[FirefoxDriver: firefox on WINDOWS (dab59e43-47e6-4d99-9838-d6d0081c0984)] -> id: applyBtn]
+2017-08-26 16:14:20,922 - com.orangeHRM.common.pageobjects.LoginUserPage -INFO - User has successfully logout from session... Proxy element for: DefaultElementLocator 'By.xpath: //a[text()='Logout']'
+2017-08-26 16:14:20,923 - com.orangeHRM.testbase.TestBase -INFO - Logout has successfully done from UserAccount!!
+2017-08-26 16:14:30,589 - com.orangeHRM.testbase.TestBase -INFO - Firefox has launching...
+2017-08-26 16:14:36,846 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-26 16:14:36,926 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-26 16:14:36,953 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-26 16:14:37,195 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin User Name is entered Admin
+2017-08-26 16:14:37,752 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin password is Entered admin
+2017-08-26 16:14:48,962 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - Admin login is success...
+2017-08-26 16:14:54,177 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave module btn is clicked.. [[FirefoxDriver: firefox on WINDOWS (453986a0-25c5-4154-8415-a61faaba0389)] -> xpath: .//*[@id='menu_leave_viewLeaveModule']/b]
+2017-08-26 16:14:56,482 - com.orangeHRM.common.pageobjects.LoginAdminPage -INFO - leave list has clicked.. [[FirefoxDriver: firefox on WINDOWS (453986a0-25c5-4154-8415-a61faaba0389)] -> xpath: .//*[@id='menu_leave_viewLeaveList']]
+2017-08-26 16:15:28,065 - com.orangeHRM.testbase.TestBase -INFO - Exception generated Unable to locate element: {"method":"xpath","selector":"//select[starts-with(@id, 'select_leave')]"}
+Command duration or timeout: 30.08 seconds
+2017-08-28 22:08:14,867 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 22:08:17,141 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 22:08:17,828 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 22:12:18,517 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 22:12:18,615 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 22:12:18,649 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 22:13:39,944 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 22:13:40,027 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 22:13:40,190 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 22:23:39,376 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 22:23:39,462 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 22:23:39,621 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 22:23:39,768 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-28 22:23:42,592 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (03f7c964-629d-445e-9f5e-31398421c218)] -> xpath: //a[text()='Mobile']]
+2017-08-28 22:23:42,644 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-28 22:47:01,950 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 22:47:02,033 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 22:47:02,059 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 22:47:02,206 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-28 22:47:09,036 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (4ed68717-e15c-48d3-a016-61e290ff3d63)] -> xpath: //a[text()='Mobile']]
+2017-08-28 22:47:09,095 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-28 22:47:11,654 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (4ed68717-e15c-48d3-a016-61e290ff3d63)] -> xpath: //select[@title='Sort By']]
+2017-08-28 22:50:18,168 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 22:50:18,264 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 22:50:18,293 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 22:50:18,447 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-28 22:50:21,712 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (2b1f4100-4643-431c-9ab8-a8e6584346dc)] -> xpath: //a[text()='Mobile']]
+2017-08-28 22:50:21,773 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-28 22:50:45,118 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (2b1f4100-4643-431c-9ab8-a8e6584346dc)] -> xpath: //select[@title='Sort By']]
+2017-08-28 23:01:43,406 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 23:01:43,496 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 23:01:43,523 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 23:01:43,668 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-28 23:01:46,596 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (edbedb3e-81fa-4f5b-987b-44c2a43c41aa)] -> xpath: //a[text()='Mobile']]
+2017-08-28 23:01:46,693 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-28 23:01:48,891 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (edbedb3e-81fa-4f5b-987b-44c2a43c41aa)] -> xpath: //select[@title='Sort By']]
+2017-08-28 23:09:33,505 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 23:09:33,772 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 23:09:33,802 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 23:09:33,968 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-28 23:09:36,698 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (aa88cb30-1d48-4581-8f23-83fc1b7fe020)] -> xpath: //a[text()='Mobile']]
+2017-08-28 23:09:36,771 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-28 23:09:38,514 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (aa88cb30-1d48-4581-8f23-83fc1b7fe020)] -> xpath: //select[@title='Sort By']]
+2017-08-28 23:40:13,887 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 23:40:13,987 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 23:40:14,020 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 23:40:14,191 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-28 23:40:19,259 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (80b71bc7-b4ef-41e9-8e7d-12db10b3b364)] -> xpath: //a[text()='Mobile']]
+2017-08-28 23:40:19,381 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-28 23:41:31,424 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 23:41:31,574 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 23:41:31,600 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 23:41:31,766 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-28 23:41:34,172 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (97e4d573-7fb7-4206-bede-f983248d943c)] -> xpath: //a[text()='Mobile']]
+2017-08-28 23:41:34,230 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-28 23:41:35,981 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (97e4d573-7fb7-4206-bede-f983248d943c)] -> xpath: //select[@title='Sort By']]
+2017-08-28 23:44:40,967 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 23:44:41,081 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 23:44:41,132 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 23:44:41,264 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-28 23:44:44,152 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (56572dfe-9b26-44c8-8d49-c477dd2b0c1f)] -> xpath: //a[text()='Mobile']]
+2017-08-28 23:44:44,233 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-28 23:44:46,274 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (56572dfe-9b26-44c8-8d49-c477dd2b0c1f)] -> xpath: //select[@title='Sort By']]
+2017-08-28 23:47:40,232 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 23:47:40,398 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 23:47:40,423 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 23:47:40,576 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-28 23:47:43,373 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (1a1887d2-129e-4994-a6cb-5321eef0aa46)] -> xpath: //a[text()='Mobile']]
+2017-08-28 23:47:43,512 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-28 23:47:45,543 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (1a1887d2-129e-4994-a6cb-5321eef0aa46)] -> xpath: //select[@title='Sort By']]
+2017-08-28 23:48:56,612 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 23:48:56,696 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 23:48:56,722 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 23:48:57,087 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-28 23:49:00,251 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (122cf46c-b739-4a63-9fe1-e261ea4790fa)] -> xpath: //a[text()='Mobile']]
+2017-08-28 23:49:00,346 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-28 23:49:02,221 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (122cf46c-b739-4a63-9fe1-e261ea4790fa)] -> xpath: //select[@title='Sort By']]
+2017-08-28 23:50:55,676 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 23:50:55,827 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 23:50:56,055 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 23:50:56,248 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-28 23:50:59,509 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (a0c7ae53-8cb4-474b-9997-97b4a96faa6e)] -> xpath: //a[text()='Mobile']]
+2017-08-28 23:50:59,588 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-28 23:51:01,831 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (a0c7ae53-8cb4-474b-9997-97b4a96faa6e)] -> xpath: //select[@title='Sort By']]
+2017-08-28 23:55:25,622 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-28 23:55:25,715 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-28 23:55:25,741 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-28 23:55:25,900 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-28 23:55:28,677 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (fbf1969c-dbe3-4ca5-9045-d2ec2d680548)] -> xpath: //a[text()='Mobile']]
+2017-08-28 23:55:28,817 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-28 23:55:30,902 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (fbf1969c-dbe3-4ca5-9045-d2ec2d680548)] -> xpath: //select[@title='Sort By']]
+2017-08-29 09:20:35,923 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-29 09:20:36,314 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-29 09:20:36,347 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-29 09:20:36,643 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-29 09:20:44,608 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (24e94b9d-3447-4969-8829-14f2a32f69c7)] -> xpath: //a[text()='Mobile']]
+2017-08-29 09:20:44,656 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-29 09:20:47,999 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (24e94b9d-3447-4969-8829-14f2a32f69c7)] -> xpath: //select[@title='Sort By']]
+2017-08-29 09:20:55,972 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (24e94b9d-3447-4969-8829-14f2a32f69c7)] -> xpath: //select[@title='Sort By']]
+2017-08-29 09:22:34,984 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-29 09:22:35,096 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-29 09:22:35,203 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-29 09:22:35,379 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-29 09:22:41,999 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (a930e314-010b-4e59-b09b-a7532206626b)] -> xpath: //a[text()='Mobile']]
+2017-08-29 09:22:42,130 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-29 09:22:47,251 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (a930e314-010b-4e59-b09b-a7532206626b)] -> xpath: //select[@title='Sort By']]
+2017-08-29 09:22:57,757 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (a930e314-010b-4e59-b09b-a7532206626b)] -> xpath: //select[@title='Sort By']]
+2017-08-29 09:41:08,473 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-29 09:41:08,597 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-29 09:41:08,624 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-29 09:41:08,780 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-29 09:41:15,100 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (f08230a1-ae3a-4fff-b12d-e842553263db)] -> xpath: //a[text()='Mobile']]
+2017-08-29 09:41:15,186 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-29 09:41:18,185 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (f08230a1-ae3a-4fff-b12d-e842553263db)] -> xpath: //select[@title='Sort By']]
+2017-08-29 09:41:27,995 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (f08230a1-ae3a-4fff-b12d-e842553263db)] -> xpath: //select[@title='Sort By']]
+2017-08-29 09:59:54,869 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-29 09:59:54,975 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-29 09:59:55,002 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-29 09:59:55,487 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-29 10:00:04,859 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (2b36dd49-5c01-48e1-b849-8f91c881a5f4)] -> xpath: //a[text()='Mobile']]
+2017-08-29 10:00:04,934 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-29 10:00:12,135 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (2b36dd49-5c01-48e1-b849-8f91c881a5f4)] -> xpath: //select[@title='Sort By']]
+2017-08-29 10:00:21,466 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (2b36dd49-5c01-48e1-b849-8f91c881a5f4)] -> xpath: //select[@title='Sort By']]
+2017-08-29 10:02:52,953 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-29 10:02:53,079 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-29 10:02:53,105 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-29 10:02:53,384 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-29 10:03:27,009 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (76072cf4-2a8e-47e6-970d-6bcddfd7ac6d)] -> xpath: //a[text()='Mobile']]
+2017-08-29 10:03:27,085 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-29 10:03:29,581 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (76072cf4-2a8e-47e6-970d-6bcddfd7ac6d)] -> xpath: //select[@title='Sort By']]
+2017-08-29 10:03:34,749 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (76072cf4-2a8e-47e6-970d-6bcddfd7ac6d)] -> xpath: //select[@title='Sort By']]
+2017-08-29 10:06:05,353 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-29 10:06:05,482 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-29 10:06:05,505 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-29 10:06:05,637 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-29 10:06:18,802 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (34211edb-7ab5-4a3a-91d7-ad174c8baa57)] -> xpath: //a[text()='Mobile']]
+2017-08-29 10:06:18,869 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-29 10:06:23,163 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (34211edb-7ab5-4a3a-91d7-ad174c8baa57)] -> xpath: //select[@title='Sort By']]
+2017-08-29 10:06:29,071 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (34211edb-7ab5-4a3a-91d7-ad174c8baa57)] -> xpath: //select[@title='Sort By']]
+2017-08-29 22:20:45,403 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-29 22:20:45,586 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-29 22:20:45,618 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-29 22:20:45,774 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-29 22:20:48,391 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (8fbcc068-379b-4508-8cd3-eab78bf13034)] -> xpath: //a[text()='Mobile']]
+2017-08-29 22:20:48,472 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-29 22:20:50,130 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (8fbcc068-379b-4508-8cd3-eab78bf13034)] -> xpath: //select[@title='Sort By']]
+2017-08-29 22:20:54,205 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (8fbcc068-379b-4508-8cd3-eab78bf13034)] -> xpath: //select[@title='Sort By']]
+2017-08-29 22:21:28,094 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn is clicked. [[FirefoxDriver: firefox on WINDOWS (8fbcc068-379b-4508-8cd3-eab78bf13034)] -> xpath: //a[text()='Mobile']]
+2017-08-29 22:21:28,429 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - xperia btn is clilked..
+2017-08-29 22:26:18,938 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-29 22:26:19,074 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-29 22:26:19,133 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-29 22:26:19,327 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-29 22:26:23,135 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (fe82412c-cb23-4e40-be52-899394a69db2)] -> xpath: //a[text()='Mobile']]
+2017-08-29 22:26:23,329 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-29 22:26:24,834 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (fe82412c-cb23-4e40-be52-899394a69db2)] -> xpath: //select[@title='Sort By']]
+2017-08-29 22:26:29,142 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (fe82412c-cb23-4e40-be52-899394a69db2)] -> xpath: //select[@title='Sort By']]
+2017-08-29 22:26:33,276 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn is clicked. [[FirefoxDriver: firefox on WINDOWS (fe82412c-cb23-4e40-be52-899394a69db2)] -> xpath: //a[text()='Mobile']]
+2017-08-29 22:26:33,504 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - xperia btn is clilked..
+2017-08-29 22:32:23,279 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-08-29 22:32:23,366 - com.orangeHRM.testbase.TestBase -INFO - Now Browser is maximize...
+2017-08-29 22:32:23,388 - com.orangeHRM.testbase.TestBase -INFO - Page loading.....
+2017-08-29 22:32:23,520 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Home page Title is send THIS IS DEMO SITE FOR   
+2017-08-29 22:32:26,962 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn link is clicked [[FirefoxDriver: firefox on WINDOWS (70dd4d11-f260-42c9-814c-bc2bfc857a78)] -> xpath: //a[text()='Mobile']]
+2017-08-29 22:32:27,010 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn text is send MOBILE
+2017-08-29 22:32:28,497 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (70dd4d11-f260-42c9-814c-bc2bfc857a78)] -> xpath: //select[@title='Sort By']]
+2017-08-29 22:32:32,743 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - selection tag is select [[FirefoxDriver: firefox on WINDOWS (70dd4d11-f260-42c9-814c-bc2bfc857a78)] -> xpath: //select[@title='Sort By']]
+2017-08-29 22:32:36,295 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - Mobile btn is clicked. [[FirefoxDriver: firefox on WINDOWS (70dd4d11-f260-42c9-814c-bc2bfc857a78)] -> xpath: //a[text()='Mobile']]
+2017-08-29 22:32:36,717 - com.guru.Ecommerce.Automation.pageobjects.MobileList -INFO - xperia btn is clilked..
+2017-12-09 22:59:00,196 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-12-09 22:59:08,323 - com.orangeHRM.testbase.TestBase -INFO - chrome browser has launching..
+2017-12-09 22:59:14,715 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-12-09 22:59:19,646 - com.orangeHRM.testbase.TestBase -INFO - chrome browser has launching..
+2017-12-09 22:59:25,211 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-12-10 00:18:52,835 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-12-10 00:18:57,768 - com.orangeHRM.testbase.TestBase -INFO - chrome browser has launching..
+2017-12-10 00:19:08,017 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2017-12-10 00:19:12,293 - com.orangeHRM.testbase.TestBase -INFO - chrome browser has launching..
+2017-12-10 00:19:23,421 - com.orangeHRM.testbase.TestBase -INFO - url has lauching..
+2018-02-16 23:03:21,116 - AutoDownloader.IDSystemAutoDownloader.TestBase -INFO - url has lauching..
+2018-02-16 23:06:19,894 - AutoDownloader.IDSystemAutoDownloader.TestBase -INFO - url has lauching..
+2018-02-16 23:07:37,538 - AutoDownloader.IDSystemAutoDownloader.TestBase -INFO - url has lauching..
+2018-02-16 23:09:51,607 - AutoDownloader.IDSystemAutoDownloader.TestBase -INFO - url has lauching..
+2018-02-16 23:13:31,553 - AutoDownloader.IDSystemAutoDownloader.TestBase -INFO - url has lauching..
+2018-02-16 23:13:31,873 - AutoDownloader.IDSystemAutoDownloader.TestBase -INFO - Now Browser is maximize...
+2018-02-16 23:13:31,912 - AutoDownloader.IDSystemAutoDownloader.TestBase -INFO - Page loading.....
