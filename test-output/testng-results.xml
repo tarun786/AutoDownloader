@@ -2,24 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="131957" started-at="2018-02-16T17:41:39Z" finished-at="2018-02-16T17:43:51Z">
+  <suite name="Default suite" duration-ms="221507" started-at="2018-02-18T16:19:00Z" finished-at="2018-02-18T16:22:41Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="131957" started-at="2018-02-16T17:41:39Z" finished-at="2018-02-16T17:43:51Z">
-      <class name="AutoDownloader.IDSystemAutoDownloader.TC001_DownloadingSoftware">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:AutoDownloader.IDSystemAutoDownloader.TC001_DownloadingSoftware@42e26948]" name="setUp" is-config="true" duration-ms="112216" started-at="2018-02-16T23:11:39Z" finished-at="2018-02-16T23:13:31Z">
+    <test name="Default test" duration-ms="221507" started-at="2018-02-18T16:19:00Z" finished-at="2018-02-18T16:22:41Z">
+      <class name="AutoDownloader.IDSystemAutoDownloader.Test11">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:AutoDownloader.IDSystemAutoDownloader.Test11@5442a311]" name="setUp" is-config="true" duration-ms="18550" started-at="2018-02-18T21:49:00Z" finished-at="2018-02-18T21:49:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="verifyLoginWithCreadentials()[pri:0, instance:AutoDownloader.IDSystemAutoDownloader.TC001_DownloadingSoftware@42e26948]" name="verifyLoginWithCreadentials" duration-ms="7097" started-at="2018-02-16T23:13:31Z" finished-at="2018-02-16T23:13:39Z">
+        <test-method status="PASS" signature="verifyLoginWithCreadentials()[pri:0, instance:AutoDownloader.IDSystemAutoDownloader.Test11@5442a311]" name="verifyLoginWithCreadentials" duration-ms="202943" started-at="2018-02-18T21:49:18Z" finished-at="2018-02-18T21:52:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithCreadentials -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:AutoDownloader.IDSystemAutoDownloader.TC001_DownloadingSoftware@42e26948]" name="tearDown" is-config="true" duration-ms="12629" started-at="2018-02-16T23:13:39Z" finished-at="2018-02-16T23:13:51Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- AutoDownloader.IDSystemAutoDownloader.TC001_DownloadingSoftware -->
+      </class> <!-- AutoDownloader.IDSystemAutoDownloader.Test11 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

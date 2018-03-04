@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="AutoDownloader.IDSystemAutoDownloader.TC001_DownloadingSoftware">
+      <class name="AutoDownloader.IDSystemAutoDownloader.Test11">
         <methods>
-          <include name="setUp"/>
           <include name="verifyLoginWithCreadentials"/>
+          <include name="setUp"/>
         </methods>
-      </class> <!-- AutoDownloader.IDSystemAutoDownloader.TC001_DownloadingSoftware -->
+      </class> <!-- AutoDownloader.IDSystemAutoDownloader.Test11 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
