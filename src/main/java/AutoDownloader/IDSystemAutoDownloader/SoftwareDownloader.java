@@ -1,4 +1,4 @@
-package com.novell.ZENworks.Autodownloader;
+package AutoDownloader.IDSystemAutoDownloader;
 
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -10,7 +10,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import com.novell.ZENworks.testbase.TestBase;
 
 public class SoftwareDownloader extends TestBase {
 	Scanner sc = new Scanner(System.in);
