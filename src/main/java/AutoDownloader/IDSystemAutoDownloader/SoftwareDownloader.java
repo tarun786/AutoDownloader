@@ -2574,7 +2574,7 @@ public class SoftwareDownloader extends TestBase {
 					logger.info("you entered the more page number " + more_page);
 					cur_page = more_page;
 				}
-
+//tarun
 				if (cur_page <= total_pages) {
 					System.out.println("you are on this page " + cur_page);
 					driver.findElement(By.xpath("//a[text()='" + cur_page + "']")).click();
